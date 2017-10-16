@@ -20,7 +20,7 @@ import java.util.*;
 				Animal1.setEdad(edad);
 			//Informar de los datos de animal1
 				Animal1.nace();
-				System.out.println("Me llamo " + Animal1.getNombre()+" y tengo "+Animal1.getEdad()+" anios");
+				System.out.println("Mi nombre es: " + Animal1.getNombre()+" y mi edad es "+Animal1.getEdad()+" anios");
 
 			}
 
